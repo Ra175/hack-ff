@@ -1,0 +1,45 @@
+﻿body {
+  height: 80vh;
+  background-image: url("mydp.JPG");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-origin: padding-box;
+  background-clip: border-box;
+  background-color: #ccc;
+}
+
+h1,h2,p,a,summary,li{
+font-family:Lucida Sans Unicode;
+color:white;
+}
+
+img{
+ background-color: #75D9B6;
+}
+
+*{
+margin-left:12px;
+margin:12px;
+}
+
+color:red
+}
+
+body{
+
+}
+
+a {
+
+  text-decoration: none
+}
+
+a:hover {
+  color: red
+}
+.link{
+	background-color:purple;
+
+}
